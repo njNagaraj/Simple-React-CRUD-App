@@ -26,4 +26,4 @@ npm install node sqlite3 cors
 node app.js
 ```
 
-Execute the code and see output in console
+3. Execute the code and see output in console
