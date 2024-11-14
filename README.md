@@ -7,13 +7,23 @@ Steps to run Download source code or clone the repo
 Ensure node installed
 1. Go to the project_directory and run react fronend code
 
-```npm intall```
-```npm run dev```
+```
+npm intall
+```
+```
+npm run dev
+```
 
 2. To run node backend code
 
-```cd API Using node```
-```npm install node sqlite3 cors```
-```node app.js```
+```
+cd API Using node
+```
+```
+npm install node sqlite3 cors
+```
+```
+node app.js
+```
 
 Execute the code and see output in console
